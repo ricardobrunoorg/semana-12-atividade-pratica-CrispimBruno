@@ -10,7 +10,7 @@ Nesta atividade, vamos trabalhar com uma API de mercado para montar uma interfac
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - LISTA DE CARDS COM FILMES - AQUI >>
+![alt text](image.png)
 
-<<  COLOQUE A IMAGEM - RESULTADO DE UMA PESQUISA - AQUI >>
+![alt text](image-1.png)
 
