@@ -5,8 +5,8 @@ Nesta atividade, vamos trabalhar com uma API de mercado para montar uma interfac
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Crispim Bruno Da Silva Junior
+- Matricula: 923833
 
 ## Prints do trabalho
 
